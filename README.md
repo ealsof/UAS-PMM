@@ -1,2 +1,2 @@
 # UAS-PMM
-punten pa kalo belum bisa, ribet soalnya
+punten pa kalo belum bisa
